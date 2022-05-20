@@ -2,7 +2,7 @@
 <div>
    <h6>
     🔭 I'm in career transition (former payroll analyst)<br/>
-    🌱 I’m currently learning Java<br/>
+    🌱 I’m currently learning Java and JavaScript<br/>
     😄 Pronouns: she/her (ela/dela)
     </h6>
 </div>
