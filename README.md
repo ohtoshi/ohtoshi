@@ -16,12 +16,13 @@
 </div>
   
 <div style="display: inline_block"><br> <! -- technonogies icons -->
+    <img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+    <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS3" height="50" width="60" src=" https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
     <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-    <img align="center" alt="eclipse" height="35" width="37" src="https://cdn.discordapp.com/attachments/959169104101666867/959546381675143198/eclipse_icon.png"/>
-    <img align="center" alt="Postman" height="40" width="40"
-         src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
     <img align="right" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959169104101666867/959169377419292752/download20220304160247_.png">
 </div>
   
