@@ -1,9 +1,9 @@
-## Hi! I'm Karine Ohtoshi 💙👋
+## Hi! I'm Karine Ohtoshi 👋😊
 <div>
    <h6>
-    🔭 I'm in career transition (former payroll analyst)<br/>
-    🌱 I’m currently learning Java and JavaScript<br/>
-    😄 Pronouns: she/her (ela/dela)
+    🚀 I'm a front-end developer (former payroll analyst )<br/>
+    📖 I’m currently learning JavaScript<br/>
+     ♀️ Pronouns: she/her (ela/dela)
     </h6>
 </div>
 
@@ -29,6 +29,6 @@
 ##
  
 <div align="center"> <! -- contact icons -->
-   <a href="https://www.linkedin.com/in/karine-ohtoshi-5b082440/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   <a href="https://www.linkedin.com/in/karine-ohtoshi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    <a href="mailto:kah.ohtoshi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
