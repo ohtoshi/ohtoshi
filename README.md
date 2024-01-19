@@ -2,7 +2,7 @@
 <div>
    <h6>
     🚀 I'm a front-end developer (former payroll analyst)<br>
-    📖 I’m currently learning JavaScript<br>
+    📖 I’m currently learning React and JavaScript<br>
      ♀️ Pronouns: she/her (ela/dela)
     </h6>
 </div>
