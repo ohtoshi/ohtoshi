@@ -22,7 +22,6 @@
     <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="Sass" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-    <img align="right" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959169104101666867/959169377419292752/download20220304160247_.png">
 </div>
   
 ##
